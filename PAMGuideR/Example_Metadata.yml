@@ -1,0 +1,35 @@
+# -----------------------------
+# ==========File info==========
+# -----------------------------
+Contact: Mirko Mustonen
+Email: mirko.mustonen@taltech.ee
+Institution: 3400
+CountryCode: EE
+# -----------------------------
+# ==========Meta data==========
+# ----------Location-----------
+StationCode:  13063
+Latitude: 59.7727
+Longitude: 24.836083
+# -----------------------------
+# ------Rig/Instrument---------
+HydrophoneType: CGP1516
+HydrophoneSerialNumber: SN151
+RecorderType: WSM2M
+RecorderSerialNumber: EA-SDALP-2010002
+MeasurementHeight: 2.5
+MeasurementPurpose: NMON
+MeasurementSetup: AUT
+RigDesign: MFB
+CalibrationProcedure: CPC
+CalibrationDateTime: 2021-06-30 12:00Z
+SensitivityE2E: -177
+# -----------------------------
+# ------Additional data--------
+LoggerID: TUT_10
+Acoustic_release: SonardyneLRT/285719-005/191-3
+LoggerClockTimeDrift: +0.00
+Comments: Monitoring continuation
+Deployment_time: 20210705_0855
+Recovery_time: 20220309_1240
+Data_timezone: UTC
